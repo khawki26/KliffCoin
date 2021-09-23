@@ -1,5 +1,5 @@
 
-// coin address: 0x41AeF27611f7292dcA0F2E31c7b89f72f888963C
+// coin address: Kovan Testnet: 0x41AeF27611f7292dcA0F2E31c7b89f72f888963C
 //SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.6;
