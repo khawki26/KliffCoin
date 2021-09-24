@@ -1,5 +1,8 @@
 
 // coin address: Kovan Testnet: 0x41AeF27611f7292dcA0F2E31c7b89f72f888963C
+
+// Credit given to Dapp university for code framework. 
+
 //SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.6;
